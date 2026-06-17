@@ -1,0 +1,26 @@
+# Keil编译输出文件
+*.o
+*.obj
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.htm
+*.dep
+
+# Keil工程配置文件*.uvoptx
+*.uvguix.*
+*.scvd
+
+# 编译生成的文件夹
+Objects/
+Listings/
+MDK-ARM/
+
+# 临时文件
+*.bak
+*.tmp
+*.log
+*.ini
